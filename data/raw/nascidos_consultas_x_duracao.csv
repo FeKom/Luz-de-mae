@@ -1,0 +1,49 @@
+linha,coluna,valor
+Nenhuma,Menos de 22 semanas,1517
+Nenhuma,De 22 a 27 semanas,8844
+Nenhuma,De 28 a 31 semanas,11160
+Nenhuma,De 32 a 36 semanas,53904
+Nenhuma,De 37 a 41 semanas,302208
+Nenhuma,42 semanas ou mais,7657
+Nenhuma,Ignorado,90448
+Nenhuma,Total,475738
+De 1 a 3 consultas,Menos de 22 semanas,5385
+De 1 a 3 consultas,De 22 a 27 semanas,41234
+De 1 a 3 consultas,De 28 a 31 semanas,51052
+De 1 a 3 consultas,De 32 a 36 semanas,240473
+De 1 a 3 consultas,De 37 a 41 semanas,1089141
+De 1 a 3 consultas,42 semanas ou mais,38027
+De 1 a 3 consultas,Ignorado,37703
+De 1 a 3 consultas,Total,1503015
+De 4 a 6 consultas,Menos de 22 semanas,4427
+De 4 a 6 consultas,De 22 a 27 semanas,63911
+De 4 a 6 consultas,De 28 a 31 semanas,126346
+De 4 a 6 consultas,De 32 a 36 semanas,814840
+De 4 a 6 consultas,De 37 a 41 semanas,4363317
+De 4 a 6 consultas,42 semanas ou mais,134719
+De 4 a 6 consultas,Ignorado,86373
+De 4 a 6 consultas,Total,5593933
+7 ou mais consultas,Menos de 22 semanas,2321
+7 ou mais consultas,De 22 a 27 semanas,23712
+7 ou mais consultas,De 28 a 31 semanas,90988
+7 ou mais consultas,De 32 a 36 semanas,1552604
+7 ou mais consultas,De 37 a 41 semanas,17491654
+7 ou mais consultas,42 semanas ou mais,453952
+7 ou mais consultas,Ignorado,163925
+7 ou mais consultas,Total,19779156
+Ignorado,Menos de 22 semanas,395
+Ignorado,De 22 a 27 semanas,2497
+Ignorado,De 28 a 31 semanas,3639
+Ignorado,De 32 a 36 semanas,17792
+Ignorado,De 37 a 41 semanas,98613
+Ignorado,42 semanas ou mais,1786
+Ignorado,Ignorado,12586
+Ignorado,Total,137308
+Total,Menos de 22 semanas,14045
+Total,De 22 a 27 semanas,140198
+Total,De 28 a 31 semanas,283185
+Total,De 32 a 36 semanas,2679613
+Total,De 37 a 41 semanas,23344933
+Total,42 semanas ou mais,636141
+Total,Ignorado,391035
+Total,Total,27489150

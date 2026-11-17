@@ -1,0 +1,37 @@
+linha,coluna,valor
+Nenhuma,0 a 2,5566
+Nenhuma,3 a 5,5560
+Nenhuma,6 a 7,12266
+Nenhuma,8 a 10,406791
+Nenhuma,Ignorado,45555
+Nenhuma,Total,475738
+De 1 a 3 consultas,0 a 2,15046
+De 1 a 3 consultas,3 a 5,15234
+De 1 a 3 consultas,6 a 7,38284
+De 1 a 3 consultas,8 a 10,1364949
+De 1 a 3 consultas,Ignorado,69502
+De 1 a 3 consultas,Total,1503015
+De 4 a 6 consultas,0 a 2,22675
+De 4 a 6 consultas,3 a 5,32471
+De 4 a 6 consultas,6 a 7,109204
+De 4 a 6 consultas,8 a 10,5285595
+De 4 a 6 consultas,Ignorado,143988
+De 4 a 6 consultas,Total,5593933
+7 ou mais consultas,0 a 2,29164
+7 ou mais consultas,3 a 5,53682
+7 ou mais consultas,6 a 7,240537
+7 ou mais consultas,8 a 10,19244099
+7 ou mais consultas,Ignorado,211674
+7 ou mais consultas,Total,19779156
+Ignorado,0 a 2,1510
+Ignorado,3 a 5,1571
+Ignorado,6 a 7,3710
+Ignorado,8 a 10,121741
+Ignorado,Ignorado,8776
+Ignorado,Total,137308
+Total,0 a 2,73961
+Total,3 a 5,108518
+Total,6 a 7,404001
+Total,8 a 10,26423175
+Total,Ignorado,479495
+Total,Total,27489150

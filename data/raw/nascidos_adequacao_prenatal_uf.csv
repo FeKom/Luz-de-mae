@@ -1,0 +1,197 @@
+linha,coluna,valor
+11 Rondônia,Não fez pré-natal,506
+11 Rondônia,Inadequado,40729
+11 Rondônia,Intermediário,15912
+11 Rondônia,Adequado,17049
+11 Rondônia,Mais que adequado,140642
+11 Rondônia,Não Classificados,44079
+11 Rondônia,Total,258917
+12 Acre,Não fez pré-natal,1365
+12 Acre,Inadequado,45098
+12 Acre,Intermediário,15150
+12 Acre,Adequado,11819
+12 Acre,Mais que adequado,57050
+12 Acre,Não Classificados,24350
+12 Acre,Total,154832
+13 Amazonas,Não fez pré-natal,10535
+13 Amazonas,Inadequado,249194
+13 Amazonas,Intermediário,81199
+13 Amazonas,Adequado,63632
+13 Amazonas,Mais que adequado,319541
+13 Amazonas,Não Classificados,29485
+13 Amazonas,Total,753586
+14 Roraima,Não fez pré-natal,1175
+14 Roraima,Inadequado,43046
+14 Roraima,Intermediário,14189
+14 Roraima,Adequado,10378
+14 Roraima,Mais que adequado,49835
+14 Roraima,Não Classificados,9813
+14 Roraima,Total,128436
+15 Pará,Não fez pré-natal,14981
+15 Pará,Inadequado,376350
+15 Pará,Intermediário,147897
+15 Pará,Adequado,121744
+15 Pará,Mais que adequado,580464
+15 Pará,Não Classificados,101531
+15 Pará,Total,1342967
+16 Amapá,Não fez pré-natal,2856
+16 Amapá,Inadequado,47990
+16 Amapá,Intermediário,22262
+16 Amapá,Adequado,13551
+16 Amapá,Mais que adequado,52904
+16 Amapá,Não Classificados,6843
+16 Amapá,Total,146406
+17 Tocantins,Não fez pré-natal,934
+17 Tocantins,Inadequado,43293
+17 Tocantins,Intermediário,19240
+17 Tocantins,Adequado,21153
+17 Tocantins,Mais que adequado,147477
+17 Tocantins,Não Classificados,6837
+17 Tocantins,Total,238934
+21 Maranhão,Não fez pré-natal,4391
+21 Maranhão,Inadequado,255586
+21 Maranhão,Intermediário,144928
+21 Maranhão,Adequado,118334
+21 Maranhão,Mais que adequado,470935
+21 Maranhão,Não Classificados,79429
+21 Maranhão,Total,1073603
+22 Piauí,Não fez pré-natal,2031
+22 Piauí,Inadequado,89692
+22 Piauí,Intermediário,35239
+22 Piauí,Adequado,37970
+22 Piauí,Mais que adequado,250540
+22 Piauí,Não Classificados,42036
+22 Piauí,Total,457508
+23 Ceará,Não fez pré-natal,2391
+23 Ceará,Inadequado,186307
+23 Ceará,Intermediário,66590
+23 Ceará,Adequado,76825
+23 Ceará,Mais que adequado,763918
+23 Ceará,Não Classificados,122226
+23 Ceará,Total,1218257
+24 Rio Grande do Norte,Não fez pré-natal,1521
+24 Rio Grande do Norte,Inadequado,71020
+24 Rio Grande do Norte,Intermediário,33669
+24 Rio Grande do Norte,Adequado,35613
+24 Rio Grande do Norte,Mais que adequado,261463
+24 Rio Grande do Norte,Não Classificados,32589
+24 Rio Grande do Norte,Total,435875
+25 Paraíba,Não fez pré-natal,2658
+25 Paraíba,Inadequado,82265
+25 Paraíba,Intermediário,37524
+25 Paraíba,Adequado,45608
+25 Paraíba,Mais que adequado,352543
+25 Paraíba,Não Classificados,34200
+25 Paraíba,Total,554798
+26 Pernambuco,Não fez pré-natal,7345
+26 Pernambuco,Inadequado,267484
+26 Pernambuco,Intermediário,79936
+26 Pernambuco,Adequado,89102
+26 Pernambuco,Mais que adequado,790903
+26 Pernambuco,Não Classificados,47726
+26 Pernambuco,Total,1282496
+27 Alagoas,Não fez pré-natal,2893
+27 Alagoas,Inadequado,90163
+27 Alagoas,Intermediário,41054
+27 Alagoas,Adequado,44537
+27 Alagoas,Mais que adequado,276734
+27 Alagoas,Não Classificados,32577
+27 Alagoas,Total,487958
+28 Sergipe,Não fez pré-natal,679
+28 Sergipe,Inadequado,59099
+28 Sergipe,Intermediário,34858
+28 Sergipe,Adequado,30938
+28 Sergipe,Mais que adequado,182566
+28 Sergipe,Não Classificados,7879
+28 Sergipe,Total,316019
+29 Bahia,Não fez pré-natal,10892
+29 Bahia,Inadequado,402294
+29 Bahia,Intermediário,143339
+29 Bahia,Adequado,148782
+29 Bahia,Mais que adequado,1034035
+29 Bahia,Não Classificados,152379
+29 Bahia,Total,1891721
+31 Minas Gerais,Não fez pré-natal,7206
+31 Minas Gerais,Inadequado,328599
+31 Minas Gerais,Intermediário,125316
+31 Minas Gerais,Adequado,156825
+31 Minas Gerais,Mais que adequado,1752658
+31 Minas Gerais,Não Classificados,110846
+31 Minas Gerais,Total,2481450
+32 Espírito Santo,Não fez pré-natal,4233
+32 Espírito Santo,Inadequado,82630
+32 Espírito Santo,Intermediário,43443
+32 Espírito Santo,Adequado,42712
+32 Espírito Santo,Mais que adequado,355198
+32 Espírito Santo,Não Classificados,9743
+32 Espírito Santo,Total,537959
+33 Rio de Janeiro,Não fez pré-natal,17323
+33 Rio de Janeiro,Inadequado,358805
+33 Rio de Janeiro,Intermediário,112479
+33 Rio de Janeiro,Adequado,123236
+33 Rio de Janeiro,Mais que adequado,1289596
+33 Rio de Janeiro,Não Classificados,115588
+33 Rio de Janeiro,Total,2017027
+35 São Paulo,Não fez pré-natal,34713
+35 São Paulo,Inadequado,726999
+35 São Paulo,Intermediário,296789
+35 São Paulo,Adequado,312946
+35 São Paulo,Mais que adequado,4123975
+35 São Paulo,Não Classificados,106047
+35 São Paulo,Total,5601469
+41 Paraná,Não fez pré-natal,4633
+41 Paraná,Inadequado,183202
+41 Paraná,Intermediário,52580
+41 Paraná,Adequado,60307
+41 Paraná,Mais que adequado,1153626
+41 Paraná,Não Classificados,28803
+41 Paraná,Total,1483151
+42 Santa Catarina,Não fez pré-natal,3504
+42 Santa Catarina,Inadequado,134091
+42 Santa Catarina,Intermediário,55250
+42 Santa Catarina,Adequado,63823
+42 Santa Catarina,Mais que adequado,699275
+42 Santa Catarina,Não Classificados,15775
+42 Santa Catarina,Total,971718
+43 Rio Grande do Sul,Não fez pré-natal,10148
+43 Rio Grande do Sul,Inadequado,216959
+43 Rio Grande do Sul,Intermediário,64315
+43 Rio Grande do Sul,Adequado,68774
+43 Rio Grande do Sul,Mais que adequado,928678
+43 Rio Grande do Sul,Não Classificados,26199
+43 Rio Grande do Sul,Total,1315073
+50 Mato Grosso do Sul,Não fez pré-natal,3987
+50 Mato Grosso do Sul,Inadequado,75497
+50 Mato Grosso do Sul,Intermediário,34314
+50 Mato Grosso do Sul,Adequado,31647
+50 Mato Grosso do Sul,Mais que adequado,271571
+50 Mato Grosso do Sul,Não Classificados,4382
+50 Mato Grosso do Sul,Total,421398
+51 Mato Grosso,Não fez pré-natal,1863
+51 Mato Grosso,Inadequado,99930
+51 Mato Grosso,Intermediário,40860
+51 Mato Grosso,Adequado,42236
+51 Mato Grosso,Mais que adequado,370143
+51 Mato Grosso,Não Classificados,16854
+51 Mato Grosso,Total,571886
+52 Goiás,Não fez pré-natal,4393
+52 Goiás,Inadequado,142108
+52 Goiás,Intermediário,76217
+52 Goiás,Adequado,76590
+52 Goiás,Mais que adequado,606442
+52 Goiás,Não Classificados,37152
+52 Goiás,Total,942902
+53 Distrito Federal,Não fez pré-natal,2715
+53 Distrito Federal,Inadequado,62971
+53 Distrito Federal,Intermediário,24881
+53 Distrito Federal,Adequado,22498
+53 Distrito Federal,Mais que adequado,260939
+53 Distrito Federal,Não Classificados,28800
+53 Distrito Federal,Total,402804
+Total,Não fez pré-natal,161871
+Total,Inadequado,4761401
+Total,Intermediário,1859430
+Total,Adequado,1888629
+Total,Mais que adequado,17543651
+Total,Não Classificados,1274168
+Total,Total,27489150

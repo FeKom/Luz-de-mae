@@ -1,0 +1,309 @@
+linha,coluna,valor
+11 Rondônia,2015,27918
+11 Rondônia,2016,26602
+11 Rondônia,2017,27503
+11 Rondônia,2018,28091
+11 Rondônia,2019,27028
+11 Rondônia,2020,25798
+11 Rondônia,2021,25439
+11 Rondônia,2022,24901
+11 Rondônia,2023,23921
+11 Rondônia,2024,21716
+11 Rondônia,Total,258917
+12 Acre,2015,16980
+12 Acre,2016,15773
+12 Acre,2017,16358
+12 Acre,2018,16543
+12 Acre,2019,16280
+12 Acre,2020,15142
+12 Acre,2021,15699
+12 Acre,2022,14483
+12 Acre,2023,14473
+12 Acre,2024,13101
+12 Acre,Total,154832
+13 Amazonas,2015,80097
+13 Amazonas,2016,76703
+13 Amazonas,2017,78066
+13 Amazonas,2018,78087
+13 Amazonas,2019,77622
+13 Amazonas,2020,75635
+13 Amazonas,2021,78454
+13 Amazonas,2022,72519
+13 Amazonas,2023,70453
+13 Amazonas,2024,65950
+13 Amazonas,Total,753586
+14 Roraima,2015,11412
+14 Roraima,2016,11376
+14 Roraima,2017,11737
+14 Roraima,2018,13344
+14 Roraima,2019,14620
+14 Roraima,2020,13760
+14 Roraima,2021,13901
+14 Roraima,2022,13091
+14 Roraima,2023,13105
+14 Roraima,2024,12090
+14 Roraima,Total,128436
+15 Pará,2015,143657
+15 Pará,2016,137681
+15 Pará,2017,138684
+15 Pará,2018,141819
+15 Pará,2019,138341
+15 Pará,2020,132938
+15 Pará,2021,137129
+15 Pará,2022,128000
+15 Pará,2023,126152
+15 Pará,2024,118566
+15 Pará,Total,1342967
+16 Amapá,2015,15750
+16 Amapá,2016,15521
+16 Amapá,2017,15399
+16 Amapá,2018,15864
+16 Amapá,2019,15356
+16 Amapá,2020,14633
+16 Amapá,2021,14993
+16 Amapá,2022,13615
+16 Amapá,2023,12948
+16 Amapá,2024,12327
+16 Amapá,Total,146406
+17 Tocantins,2015,25110
+17 Tocantins,2016,23870
+17 Tocantins,2017,24935
+17 Tocantins,2018,25480
+17 Tocantins,2019,24449
+17 Tocantins,2020,23729
+17 Tocantins,2021,23747
+17 Tocantins,2022,22549
+17 Tocantins,2023,23145
+17 Tocantins,2024,21920
+17 Tocantins,Total,238934
+21 Maranhão,2015,117564
+21 Maranhão,2016,110493
+21 Maranhão,2017,112985
+21 Maranhão,2018,117156
+21 Maranhão,2019,113317
+21 Maranhão,2020,106079
+21 Maranhão,2021,108667
+21 Maranhão,2022,97964
+21 Maranhão,2023,97205
+21 Maranhão,2024,92173
+21 Maranhão,Total,1073603
+22 Piauí,2015,49253
+22 Piauí,2016,46986
+22 Piauí,2017,48551
+22 Piauí,2018,49490
+22 Piauí,2019,47933
+22 Piauí,2020,45229
+22 Piauí,2021,45978
+22 Piauí,2022,42247
+22 Piauí,2023,42144
+22 Piauí,2024,39697
+22 Piauí,Total,457508
+23 Ceará,2015,132516
+23 Ceará,2016,126246
+23 Ceará,2017,127797
+23 Ceará,2018,131491
+23 Ceará,2019,129185
+23 Ceará,2020,121904
+23 Ceará,2021,120266
+23 Ceará,2022,112308
+23 Ceará,2023,111091
+23 Ceará,2024,105453
+23 Ceará,Total,1218257
+24 Rio Grande do Norte,2015,49099
+24 Rio Grande do Norte,2016,45366
+24 Rio Grande do Norte,2017,46222
+24 Rio Grande do Norte,2018,48107
+24 Rio Grande do Norte,2019,44031
+24 Rio Grande do Norte,2020,43531
+24 Rio Grande do Norte,2021,43430
+24 Rio Grande do Norte,2022,40037
+24 Rio Grande do Norte,2023,39440
+24 Rio Grande do Norte,2024,36612
+24 Rio Grande do Norte,Total,435875
+25 Paraíba,2015,59089
+25 Paraíba,2016,56083
+25 Paraíba,2017,57493
+25 Paraíba,2018,60205
+25 Paraíba,2019,57701
+25 Paraíba,2020,56379
+25 Paraíba,2021,56049
+25 Paraíba,2022,50892
+25 Paraíba,2023,51531
+25 Paraíba,2024,49376
+25 Paraíba,Total,554798
+26 Pernambuco,2015,145024
+26 Pernambuco,2016,130733
+26 Pernambuco,2017,135932
+26 Pernambuco,2018,138317
+26 Pernambuco,2019,133359
+26 Pernambuco,2020,128481
+26 Pernambuco,2021,126211
+26 Pernambuco,2022,117437
+26 Pernambuco,2023,116175
+26 Pernambuco,2024,110827
+26 Pernambuco,Total,1282496
+27 Alagoas,2015,52257
+27 Alagoas,2016,48164
+27 Alagoas,2017,50368
+27 Alagoas,2018,52496
+27 Alagoas,2019,49803
+27 Alagoas,2020,48341
+27 Alagoas,2021,48808
+27 Alagoas,2022,45742
+27 Alagoas,2023,46543
+27 Alagoas,2024,45436
+27 Alagoas,Total,487958
+28 Sergipe,2015,34917
+28 Sergipe,2016,32218
+28 Sergipe,2017,33867
+28 Sergipe,2018,34256
+28 Sergipe,2019,32697
+28 Sergipe,2020,31784
+28 Sergipe,2021,31206
+28 Sergipe,2022,28524
+28 Sergipe,2023,29005
+28 Sergipe,2024,27545
+28 Sergipe,Total,316019
+29 Bahia,2015,206655
+29 Bahia,2016,199830
+29 Bahia,2017,204096
+29 Bahia,2018,205332
+29 Bahia,2019,197249
+29 Bahia,2020,188960
+29 Bahia,2021,185459
+29 Bahia,2022,173824
+29 Bahia,2023,170314
+29 Bahia,2024,160002
+29 Bahia,Total,1891721
+31 Minas Gerais,2015,268305
+31 Minas Gerais,2016,253520
+31 Minas Gerais,2017,260959
+31 Minas Gerais,2018,263640
+31 Minas Gerais,2019,256892
+31 Minas Gerais,2020,247198
+31 Minas Gerais,2021,242136
+31 Minas Gerais,2022,235063
+31 Minas Gerais,2023,233918
+31 Minas Gerais,2024,219819
+31 Minas Gerais,Total,2481450
+32 Espírito Santo,2015,56941
+32 Espírito Santo,2016,53413
+32 Espírito Santo,2017,55846
+32 Espírito Santo,2018,56721
+32 Espírito Santo,2019,54925
+32 Espírito Santo,2020,53767
+32 Espírito Santo,2021,52493
+32 Espírito Santo,2022,51729
+32 Espírito Santo,2023,52187
+32 Espírito Santo,2024,49937
+32 Espírito Santo,Total,537959
+33 Rio de Janeiro,2015,236960
+33 Rio de Janeiro,2016,219129
+33 Rio de Janeiro,2017,223224
+33 Rio de Janeiro,2018,220499
+33 Rio de Janeiro,2019,207989
+33 Rio de Janeiro,2020,199124
+33 Rio de Janeiro,2021,189866
+33 Rio de Janeiro,2022,180369
+33 Rio de Janeiro,2023,176145
+33 Rio de Janeiro,2024,163722
+33 Rio de Janeiro,Total,2017027
+35 São Paulo,2015,634026
+35 São Paulo,2016,601437
+35 São Paulo,2017,611803
+35 São Paulo,2018,606146
+35 São Paulo,2019,583191
+35 São Paulo,2020,552310
+35 São Paulo,2021,525239
+35 São Paulo,2022,512520
+35 São Paulo,2023,503910
+35 São Paulo,2024,470887
+35 São Paulo,Total,5601469
+41 Paraná,2015,160947
+41 Paraná,2016,155066
+41 Paraná,2017,157701
+41 Paraná,2018,156201
+41 Paraná,2019,153469
+41 Paraná,2020,146291
+41 Paraná,2021,141976
+41 Paraná,2022,140637
+41 Paraná,2023,139836
+41 Paraná,2024,131027
+41 Paraná,Total,1483151
+42 Santa Catarina,2015,97223
+42 Santa Catarina,2016,95313
+42 Santa Catarina,2017,98335
+42 Santa Catarina,2018,99609
+42 Santa Catarina,2019,98032
+42 Santa Catarina,2020,97916
+42 Santa Catarina,2021,96499
+42 Santa Catarina,2022,98202
+42 Santa Catarina,2023,96802
+42 Santa Catarina,2024,93787
+42 Santa Catarina,Total,971718
+43 Rio Grande do Sul,2015,148359
+43 Rio Grande do Sul,2016,141411
+43 Rio Grande do Sul,2017,141568
+43 Rio Grande do Sul,2018,140047
+43 Rio Grande do Sul,2019,134596
+43 Rio Grande do Sul,2020,130742
+43 Rio Grande do Sul,2021,124446
+43 Rio Grande do Sul,2022,120942
+43 Rio Grande do Sul,2023,120974
+43 Rio Grande do Sul,2024,111988
+43 Rio Grande do Sul,Total,1315073
+50 Mato Grosso do Sul,2015,44142
+50 Mato Grosso do Sul,2016,42432
+50 Mato Grosso do Sul,2017,44747
+50 Mato Grosso do Sul,2018,44275
+50 Mato Grosso do Sul,2019,43695
+50 Mato Grosso do Sul,2020,41308
+50 Mato Grosso do Sul,2021,42173
+50 Mato Grosso do Sul,2022,40485
+50 Mato Grosso do Sul,2023,40233
+50 Mato Grosso do Sul,2024,37908
+50 Mato Grosso do Sul,Total,421398
+51 Mato Grosso,2015,56673
+51 Mato Grosso,2016,53531
+51 Mato Grosso,2017,57271
+51 Mato Grosso,2018,58649
+51 Mato Grosso,2019,58852
+51 Mato Grosso,2020,57037
+51 Mato Grosso,2021,57841
+51 Mato Grosso,2022,58169
+51 Mato Grosso,2023,58553
+51 Mato Grosso,2024,55310
+51 Mato Grosso,Total,571886
+52 Goiás,2015,100672
+52 Goiás,2016,95563
+52 Goiás,2017,97520
+52 Goiás,2018,98872
+52 Goiás,2019,96112
+52 Goiás,2020,92768
+52 Goiás,2021,90961
+52 Goiás,2022,89745
+52 Goiás,2023,91822
+52 Goiás,2024,88867
+52 Goiás,Total,942902
+53 Distrito Federal,2015,46122
+53 Distrito Federal,2016,43340
+53 Distrito Federal,2017,44568
+53 Distrito Federal,2018,44195
+53 Distrito Federal,2019,42422
+53 Distrito Federal,2020,39361
+53 Distrito Federal,2021,38035
+53 Distrito Federal,2022,35928
+53 Distrito Federal,2023,35551
+53 Distrito Federal,2024,33282
+53 Distrito Federal,Total,402804
+Total,2015,3017668
+Total,2016,2857800
+Total,2017,2923535
+Total,2018,2944932
+Total,2019,2849146
+Total,2020,2730145
+Total,2021,2677101
+Total,2022,2561922
+Total,2023,2537576
+Total,2024,2389325
+Total,Total,27489150

@@ -1,0 +1,169 @@
+linha,coluna,valor
+11 Rondônia,Nenhuma,11158
+11 Rondônia,De 1 a 3 consultas,13123
+11 Rondônia,De 4 a 6 consultas,56230
+11 Rondônia,7 ou mais consultas,177587
+11 Rondônia,Ignorado,819
+11 Rondônia,Total,258917
+12 Acre,Nenhuma,9220
+12 Acre,De 1 a 3 consultas,20615
+12 Acre,De 4 a 6 consultas,48415
+12 Acre,7 ou mais consultas,75321
+12 Acre,Ignorado,1261
+12 Acre,Total,154832
+13 Amazonas,Nenhuma,20571
+13 Amazonas,De 1 a 3 consultas,96197
+13 Amazonas,De 4 a 6 consultas,242276
+13 Amazonas,7 ou mais consultas,390204
+13 Amazonas,Ignorado,4338
+13 Amazonas,Total,753586
+14 Roraima,Nenhuma,8234
+14 Roraima,De 1 a 3 consultas,20356
+14 Roraima,De 4 a 6 consultas,41073
+14 Roraima,7 ou mais consultas,58638
+14 Roraima,Ignorado,135
+14 Roraima,Total,128436
+15 Pará,Nenhuma,58876
+15 Pará,De 1 a 3 consultas,156238
+15 Pará,De 4 a 6 consultas,426513
+15 Pará,7 ou mais consultas,692472
+15 Pará,Ignorado,8868
+15 Pará,Total,1342967
+16 Amapá,Nenhuma,4777
+16 Amapá,De 1 a 3 consultas,28971
+16 Amapá,De 4 a 6 consultas,49785
+16 Amapá,7 ou mais consultas,62441
+16 Amapá,Ignorado,432
+16 Amapá,Total,146406
+17 Tocantins,Nenhuma,2085
+17 Tocantins,De 1 a 3 consultas,12607
+17 Tocantins,De 4 a 6 consultas,59147
+17 Tocantins,7 ou mais consultas,164971
+17 Tocantins,Ignorado,124
+17 Tocantins,Total,238934
+21 Maranhão,Nenhuma,27384
+21 Maranhão,De 1 a 3 consultas,119801
+21 Maranhão,De 4 a 6 consultas,366802
+21 Maranhão,7 ou mais consultas,556704
+21 Maranhão,Ignorado,2912
+21 Maranhão,Total,1073603
+22 Piauí,Nenhuma,12458
+22 Piauí,De 1 a 3 consultas,27881
+22 Piauí,De 4 a 6 consultas,117234
+22 Piauí,7 ou mais consultas,298065
+22 Piauí,Ignorado,1870
+22 Piauí,Total,457508
+23 Ceará,Nenhuma,26420
+23 Ceará,De 1 a 3 consultas,49397
+23 Ceará,De 4 a 6 consultas,227804
+23 Ceará,7 ou mais consultas,910615
+23 Ceará,Ignorado,4021
+23 Ceará,Total,1218257
+24 Rio Grande do Norte,Nenhuma,5451
+24 Rio Grande do Norte,De 1 a 3 consultas,23612
+24 Rio Grande do Norte,De 4 a 6 consultas,101212
+24 Rio Grande do Norte,7 ou mais consultas,300462
+24 Rio Grande do Norte,Ignorado,5138
+24 Rio Grande do Norte,Total,435875
+25 Paraíba,Nenhuma,12809
+25 Paraíba,De 1 a 3 consultas,26829
+25 Paraíba,De 4 a 6 consultas,116565
+25 Paraíba,7 ou mais consultas,394917
+25 Paraíba,Ignorado,3678
+25 Paraíba,Total,554798
+26 Pernambuco,Nenhuma,19654
+26 Pernambuco,De 1 a 3 consultas,68394
+26 Pernambuco,De 4 a 6 consultas,273496
+26 Pernambuco,7 ou mais consultas,911703
+26 Pernambuco,Ignorado,9249
+26 Pernambuco,Total,1282496
+27 Alagoas,Nenhuma,7938
+27 Alagoas,De 1 a 3 consultas,30657
+27 Alagoas,De 4 a 6 consultas,125383
+27 Alagoas,7 ou mais consultas,321700
+27 Alagoas,Ignorado,2280
+27 Alagoas,Total,487958
+28 Sergipe,Nenhuma,2951
+28 Sergipe,De 1 a 3 consultas,23817
+28 Sergipe,De 4 a 6 consultas,88280
+28 Sergipe,7 ou mais consultas,200353
+28 Sergipe,Ignorado,618
+28 Sergipe,Total,316019
+29 Bahia,Nenhuma,53163
+29 Bahia,De 1 a 3 consultas,119433
+29 Bahia,De 4 a 6 consultas,465015
+29 Bahia,7 ou mais consultas,1232962
+29 Bahia,Ignorado,21148
+29 Bahia,Total,1891721
+31 Minas Gerais,Nenhuma,24724
+31 Minas Gerais,De 1 a 3 consultas,82012
+31 Minas Gerais,De 4 a 6 consultas,416292
+31 Minas Gerais,7 ou mais consultas,1951349
+31 Minas Gerais,Ignorado,7073
+31 Minas Gerais,Total,2481450
+32 Espírito Santo,Nenhuma,6037
+32 Espírito Santo,De 1 a 3 consultas,30118
+32 Espírito Santo,De 4 a 6 consultas,115421
+32 Espírito Santo,7 ou mais consultas,385560
+32 Espírito Santo,Ignorado,823
+32 Espírito Santo,Total,537959
+33 Rio de Janeiro,Nenhuma,37884
+33 Rio de Janeiro,De 1 a 3 consultas,103768
+33 Rio de Janeiro,De 4 a 6 consultas,391385
+33 Rio de Janeiro,7 ou mais consultas,1458891
+33 Rio de Janeiro,Ignorado,25099
+33 Rio de Janeiro,Total,2017027
+35 São Paulo,Nenhuma,50687
+35 São Paulo,De 1 a 3 consultas,194657
+35 São Paulo,De 4 a 6 consultas,839870
+35 São Paulo,7 ou mais consultas,4496201
+35 São Paulo,Ignorado,20054
+35 São Paulo,Total,5601469
+41 Paraná,Nenhuma,11389
+41 Paraná,De 1 a 3 consultas,39074
+41 Paraná,De 4 a 6 consultas,169067
+41 Paraná,7 ou mais consultas,1261670
+41 Paraná,Ignorado,1951
+41 Paraná,Total,1483151
+42 Santa Catarina,Nenhuma,6590
+42 Santa Catarina,De 1 a 3 consultas,33654
+42 Santa Catarina,De 4 a 6 consultas,164769
+42 Santa Catarina,7 ou mais consultas,764585
+42 Santa Catarina,Ignorado,2120
+42 Santa Catarina,Total,971718
+43 Rio Grande do Sul,Nenhuma,18611
+43 Rio Grande do Sul,De 1 a 3 consultas,53161
+43 Rio Grande do Sul,De 4 a 6 consultas,205436
+43 Rio Grande do Sul,7 ou mais consultas,1033913
+43 Rio Grande do Sul,Ignorado,3952
+43 Rio Grande do Sul,Total,1315073
+50 Mato Grosso do Sul,Nenhuma,5322
+50 Mato Grosso do Sul,De 1 a 3 consultas,27068
+50 Mato Grosso do Sul,De 4 a 6 consultas,89899
+50 Mato Grosso do Sul,7 ou mais consultas,298627
+50 Mato Grosso do Sul,Ignorado,482
+50 Mato Grosso do Sul,Total,421398
+51 Mato Grosso,Nenhuma,6438
+51 Mato Grosso,De 1 a 3 consultas,28666
+51 Mato Grosso,De 4 a 6 consultas,119664
+51 Mato Grosso,7 ou mais consultas,415619
+51 Mato Grosso,Ignorado,1499
+51 Mato Grosso,Total,571886
+52 Goiás,Nenhuma,18291
+52 Goiás,De 1 a 3 consultas,51650
+52 Goiás,De 4 a 6 consultas,205803
+52 Goiás,7 ou mais consultas,663110
+52 Goiás,Ignorado,4048
+52 Goiás,Total,942902
+53 Distrito Federal,Nenhuma,6616
+53 Distrito Federal,De 1 a 3 consultas,21259
+53 Distrito Federal,De 4 a 6 consultas,71097
+53 Distrito Federal,7 ou mais consultas,300516
+53 Distrito Federal,Ignorado,3316
+53 Distrito Federal,Total,402804
+Total,Nenhuma,475738
+Total,De 1 a 3 consultas,1503015
+Total,De 4 a 6 consultas,5593933
+Total,7 ou mais consultas,19779156
+Total,Ignorado,137308
+Total,Total,27489150

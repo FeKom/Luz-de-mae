@@ -1,0 +1,155 @@
+linha,coluna,valor
+Menor de 10 anos,2015,0
+Menor de 10 anos,2016,0
+Menor de 10 anos,2017,0
+Menor de 10 anos,2018,2
+Menor de 10 anos,2019,0
+Menor de 10 anos,2020,0
+Menor de 10 anos,2021,0
+Menor de 10 anos,2022,1
+Menor de 10 anos,2023,0
+Menor de 10 anos,2024,2
+Menor de 10 anos,Total,5
+10 a 14 anos,2015,403
+10 a 14 anos,2016,365
+10 a 14 anos,2017,327
+10 a 14 anos,2018,289
+10 a 14 anos,2019,261
+10 a 14 anos,2020,272
+10 a 14 anos,2021,275
+10 a 14 anos,2022,232
+10 a 14 anos,2023,218
+10 a 14 anos,2024,195
+10 a 14 anos,Total,2837
+15 a 19 anos,2015,5282
+15 a 19 anos,2016,4864
+15 a 19 anos,2017,4746
+15 a 19 anos,2018,4383
+15 a 19 anos,2019,4088
+15 a 19 anos,2020,3943
+15 a 19 anos,2021,3925
+15 a 19 anos,2022,3482
+15 a 19 anos,2023,3295
+15 a 19 anos,2024,3045
+15 a 19 anos,Total,41053
+20 a 24 anos,2015,6838
+20 a 24 anos,2016,6387
+20 a 24 anos,2017,6654
+20 a 24 anos,2018,6583
+20 a 24 anos,2019,6203
+20 a 24 anos,2020,6100
+20 a 24 anos,2021,6321
+20 a 24 anos,2022,5880
+20 a 24 anos,2023,5735
+20 a 24 anos,2024,5295
+20 a 24 anos,Total,61996
+25 a 29 anos,2015,6449
+25 a 29 anos,2016,5685
+25 a 29 anos,2017,5919
+25 a 29 anos,2018,5947
+25 a 29 anos,2019,5692
+25 a 29 anos,2020,5762
+25 a 29 anos,2021,6025
+25 a 29 anos,2022,5639
+25 a 29 anos,2023,5672
+25 a 29 anos,2024,5190
+25 a 29 anos,Total,57980
+30 a 34 anos,2015,5579
+30 a 34 anos,2016,5143
+30 a 34 anos,2017,5256
+30 a 34 anos,2018,5441
+30 a 34 anos,2019,5300
+30 a 34 anos,2020,5133
+30 a 34 anos,2021,5098
+30 a 34 anos,2022,4954
+30 a 34 anos,2023,4785
+30 a 34 anos,2024,4371
+30 a 34 anos,Total,51060
+35 a 39 anos,2015,3877
+35 a 39 anos,2016,3757
+35 a 39 anos,2017,3863
+35 a 39 anos,2018,4089
+35 a 39 anos,2019,3929
+35 a 39 anos,2020,3928
+35 a 39 anos,2021,3947
+35 a 39 anos,2022,3817
+35 a 39 anos,2023,3693
+35 a 39 anos,2024,3406
+35 a 39 anos,Total,38306
+40 a 44 anos,2015,1328
+40 a 44 anos,2016,1338
+40 a 44 anos,2017,1381
+40 a 44 anos,2018,1538
+40 a 44 anos,2019,1553
+40 a 44 anos,2020,1634
+40 a 44 anos,2021,1540
+40 a 44 anos,2022,1617
+40 a 44 anos,2023,1482
+40 a 44 anos,2024,1432
+40 a 44 anos,Total,14843
+45 a 49 anos,2015,117
+45 a 49 anos,2016,128
+45 a 49 anos,2017,132
+45 a 49 anos,2018,120
+45 a 49 anos,2019,141
+45 a 49 anos,2020,136
+45 a 49 anos,2021,121
+45 a 49 anos,2022,134
+45 a 49 anos,2023,139
+45 a 49 anos,2024,120
+45 a 49 anos,Total,1288
+50 a 54 anos,2015,6
+50 a 54 anos,2016,6
+50 a 54 anos,2017,6
+50 a 54 anos,2018,8
+50 a 54 anos,2019,5
+50 a 54 anos,2020,3
+50 a 54 anos,2021,1
+50 a 54 anos,2022,9
+50 a 54 anos,2023,4
+50 a 54 anos,2024,7
+50 a 54 anos,Total,55
+55 a 59 anos,2015,0
+55 a 59 anos,2016,0
+55 a 59 anos,2017,0
+55 a 59 anos,2018,1
+55 a 59 anos,2019,1
+55 a 59 anos,2020,0
+55 a 59 anos,2021,2
+55 a 59 anos,2022,1
+55 a 59 anos,2023,0
+55 a 59 anos,2024,0
+55 a 59 anos,Total,5
+60 a 64 anos,2015,0
+60 a 64 anos,2016,0
+60 a 64 anos,2017,0
+60 a 64 anos,2018,1
+60 a 64 anos,2019,0
+60 a 64 anos,2020,0
+60 a 64 anos,2021,0
+60 a 64 anos,2022,0
+60 a 64 anos,2023,1
+60 a 64 anos,2024,1
+60 a 64 anos,Total,3
+Idade ignorada,2015,3115
+Idade ignorada,2016,2537
+Idade ignorada,2017,2336
+Idade ignorada,2018,2288
+Idade ignorada,2019,1932
+Idade ignorada,2020,2082
+Idade ignorada,2021,2070
+Idade ignorada,2022,1628
+Idade ignorada,2023,1521
+Idade ignorada,2024,1300
+Idade ignorada,Total,20809
+Total,2015,32994
+Total,2016,30210
+Total,2017,30620
+Total,2018,30690
+Total,2019,29105
+Total,2020,28993
+Total,2021,29325
+Total,2022,27394
+Total,2023,26545
+Total,2024,24364
+Total,Total,290240

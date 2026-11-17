@@ -1,0 +1,113 @@
+linha,coluna,valor
+11 Rondônia,Antes do parto,2182
+11 Rondônia,Durante o parto,88
+11 Rondônia,Ignorado,82
+11 Rondônia,Total,2352
+12 Acre,Antes do parto,1450
+12 Acre,Durante o parto,113
+12 Acre,Ignorado,110
+12 Acre,Total,1673
+13 Amazonas,Antes do parto,8260
+13 Amazonas,Durante o parto,558
+13 Amazonas,Ignorado,209
+13 Amazonas,Total,9027
+14 Roraima,Antes do parto,1211
+14 Roraima,Durante o parto,93
+14 Roraima,Ignorado,32
+14 Roraima,Total,1336
+15 Pará,Antes do parto,14550
+15 Pará,Durante o parto,710
+15 Pará,Ignorado,587
+15 Pará,Total,15847
+16 Amapá,Antes do parto,1690
+16 Amapá,Durante o parto,90
+16 Amapá,Ignorado,114
+16 Amapá,Total,1894
+17 Tocantins,Antes do parto,2272
+17 Tocantins,Durante o parto,122
+17 Tocantins,Ignorado,102
+17 Tocantins,Total,2496
+21 Maranhão,Antes do parto,12933
+21 Maranhão,Durante o parto,630
+21 Maranhão,Ignorado,710
+21 Maranhão,Total,14273
+22 Piauí,Antes do parto,5158
+22 Piauí,Durante o parto,226
+22 Piauí,Ignorado,153
+22 Piauí,Total,5537
+23 Ceará,Antes do parto,12297
+23 Ceará,Durante o parto,575
+23 Ceará,Ignorado,473
+23 Ceará,Total,13345
+24 Rio Grande do Norte,Antes do parto,4485
+24 Rio Grande do Norte,Durante o parto,171
+24 Rio Grande do Norte,Ignorado,210
+24 Rio Grande do Norte,Total,4866
+25 Paraíba,Antes do parto,5513
+25 Paraíba,Durante o parto,163
+25 Paraíba,Ignorado,293
+25 Paraíba,Total,5969
+26 Pernambuco,Antes do parto,12903
+26 Pernambuco,Durante o parto,752
+26 Pernambuco,Ignorado,781
+26 Pernambuco,Total,14436
+27 Alagoas,Antes do parto,4993
+27 Alagoas,Durante o parto,249
+27 Alagoas,Ignorado,456
+27 Alagoas,Total,5698
+28 Sergipe,Antes do parto,3523
+28 Sergipe,Durante o parto,121
+28 Sergipe,Ignorado,71
+28 Sergipe,Total,3715
+29 Bahia,Antes do parto,24471
+29 Bahia,Durante o parto,1356
+29 Bahia,Ignorado,1634
+29 Bahia,Total,27461
+31 Minas Gerais,Antes do parto,22776
+31 Minas Gerais,Durante o parto,1693
+31 Minas Gerais,Ignorado,1468
+31 Minas Gerais,Total,25937
+32 Espírito Santo,Antes do parto,4528
+32 Espírito Santo,Durante o parto,119
+32 Espírito Santo,Ignorado,353
+32 Espírito Santo,Total,5000
+33 Rio de Janeiro,Antes do parto,22525
+33 Rio de Janeiro,Durante o parto,1442
+33 Rio de Janeiro,Ignorado,1126
+33 Rio de Janeiro,Total,25093
+35 São Paulo,Antes do parto,44735
+35 São Paulo,Durante o parto,1848
+35 São Paulo,Ignorado,4161
+35 São Paulo,Total,50744
+41 Paraná,Antes do parto,10646
+41 Paraná,Durante o parto,570
+41 Paraná,Ignorado,293
+41 Paraná,Total,11509
+42 Santa Catarina,Antes do parto,7210
+42 Santa Catarina,Durante o parto,402
+42 Santa Catarina,Ignorado,205
+42 Santa Catarina,Total,7817
+43 Rio Grande do Sul,Antes do parto,10124
+43 Rio Grande do Sul,Durante o parto,496
+43 Rio Grande do Sul,Ignorado,332
+43 Rio Grande do Sul,Total,10952
+50 Mato Grosso do Sul,Antes do parto,4186
+50 Mato Grosso do Sul,Durante o parto,215
+50 Mato Grosso do Sul,Ignorado,125
+50 Mato Grosso do Sul,Total,4526
+51 Mato Grosso,Antes do parto,5094
+51 Mato Grosso,Durante o parto,267
+51 Mato Grosso,Ignorado,165
+51 Mato Grosso,Total,5526
+52 Goiás,Antes do parto,8460
+52 Goiás,Durante o parto,476
+52 Goiás,Ignorado,458
+52 Goiás,Total,9394
+53 Distrito Federal,Antes do parto,3445
+53 Distrito Federal,Durante o parto,162
+53 Distrito Federal,Ignorado,209
+53 Distrito Federal,Total,3816
+Total,Antes do parto,261620
+Total,Durante o parto,13707
+Total,Ignorado,14912
+Total,Total,290239
