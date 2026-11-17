@@ -1,0 +1,109 @@
+linha,coluna,valor
+Algumas doenças infecciosas e parasitárias,1 Região Norte,178
+Algumas doenças infecciosas e parasitárias,2 Região Nordeste,1002
+Algumas doenças infecciosas e parasitárias,3 Região Sudeste,2248
+Algumas doenças infecciosas e parasitárias,4 Região Sul,428
+Algumas doenças infecciosas e parasitárias,5 Região Centro-Oeste,411
+Algumas doenças infecciosas e parasitárias,Total,4267
+. Restante de algumas doenças infecciosas e parasi,1 Região Norte,178
+. Restante de algumas doenças infecciosas e parasi,2 Região Nordeste,1002
+. Restante de algumas doenças infecciosas e parasi,3 Região Sudeste,2248
+. Restante de algumas doenças infecciosas e parasi,4 Região Sul,428
+. Restante de algumas doenças infecciosas e parasi,5 Região Centro-Oeste,411
+. Restante de algumas doenças infecciosas e parasi,Total,4267
+Algumas afecções originadas no período perinatal,1 Região Norte,32791
+Algumas afecções originadas no período perinatal,2 Região Nordeste,89297
+Algumas afecções originadas no período perinatal,3 Região Sudeste,96751
+Algumas afecções originadas no período perinatal,4 Região Sul,27191
+Algumas afecções originadas no período perinatal,5 Região Centro-Oeste,21096
+Algumas afecções originadas no período perinatal,Total,267126
+. Feto e recém-nascido afetados por fatores matern,1 Região Norte,16351
+. Feto e recém-nascido afetados por fatores matern,2 Região Nordeste,38851
+. Feto e recém-nascido afetados por fatores matern,3 Região Sudeste,45022
+. Feto e recém-nascido afetados por fatores matern,4 Região Sul,15475
+. Feto e recém-nascido afetados por fatores matern,5 Região Centro-Oeste,12387
+. Feto e recém-nascido afetados por fatores matern,Total,128086
+. Transtornos relacionados à duração da gravidez e,1 Região Norte,321
+. Transtornos relacionados à duração da gravidez e,2 Região Nordeste,1377
+. Transtornos relacionados à duração da gravidez e,3 Região Sudeste,1537
+. Transtornos relacionados à duração da gravidez e,4 Região Sul,583
+. Transtornos relacionados à duração da gravidez e,5 Região Centro-Oeste,271
+. Transtornos relacionados à duração da gravidez e,Total,4089
+. Traumatismo ocorrido durante o nascimento,1 Região Norte,23
+. Traumatismo ocorrido durante o nascimento,2 Região Nordeste,74
+. Traumatismo ocorrido durante o nascimento,3 Região Sudeste,24
+. Traumatismo ocorrido durante o nascimento,4 Região Sul,8
+. Traumatismo ocorrido durante o nascimento,5 Região Centro-Oeste,14
+. Traumatismo ocorrido durante o nascimento,Total,143
+. Hipóxia intrauterina e asfixia ao nascer,1 Região Norte,5442
+. Hipóxia intrauterina e asfixia ao nascer,2 Região Nordeste,20401
+. Hipóxia intrauterina e asfixia ao nascer,3 Região Sudeste,28371
+. Hipóxia intrauterina e asfixia ao nascer,4 Região Sul,2654
+. Hipóxia intrauterina e asfixia ao nascer,5 Região Centro-Oeste,2911
+. Hipóxia intrauterina e asfixia ao nascer,Total,59779
+. Outras afecções respiratórias do recém-nascido,1 Região Norte,8
+. Outras afecções respiratórias do recém-nascido,2 Região Nordeste,22
+. Outras afecções respiratórias do recém-nascido,3 Região Sudeste,32
+. Outras afecções respiratórias do recém-nascido,4 Região Sul,2
+. Outras afecções respiratórias do recém-nascido,5 Região Centro-Oeste,30
+. Outras afecções respiratórias do recém-nascido,Total,94
+. Transtornos hemorrágicos e hematológicos do feto,1 Região Norte,136
+. Transtornos hemorrágicos e hematológicos do feto,2 Região Nordeste,357
+. Transtornos hemorrágicos e hematológicos do feto,3 Região Sudeste,402
+. Transtornos hemorrágicos e hematológicos do feto,4 Região Sul,176
+. Transtornos hemorrágicos e hematológicos do feto,5 Região Centro-Oeste,136
+. Transtornos hemorrágicos e hematológicos do feto,Total,1207
+. Restante das afecções perinatais,1 Região Norte,10510
+. Restante das afecções perinatais,2 Região Nordeste,28215
+. Restante das afecções perinatais,3 Região Sudeste,21363
+. Restante das afecções perinatais,4 Região Sul,8293
+. Restante das afecções perinatais,5 Região Centro-Oeste,5347
+. Restante das afecções perinatais,Total,73728
+"Malformações congênitas, deformidades e anomalias",1 Região Norte,1657
+"Malformações congênitas, deformidades e anomalias",2 Região Nordeste,5001
+"Malformações congênitas, deformidades e anomalias",3 Região Sudeste,7775
+"Malformações congênitas, deformidades e anomalias",4 Região Sul,2659
+"Malformações congênitas, deformidades e anomalias",5 Região Centro-Oeste,1755
+"Malformações congênitas, deformidades e anomalias",Total,18847
+. Hidrocefalia e espinha bífida congênitas,1 Região Norte,87
+. Hidrocefalia e espinha bífida congênitas,2 Região Nordeste,149
+. Hidrocefalia e espinha bífida congênitas,3 Região Sudeste,182
+. Hidrocefalia e espinha bífida congênitas,4 Região Sul,72
+. Hidrocefalia e espinha bífida congênitas,5 Região Centro-Oeste,51
+. Hidrocefalia e espinha bífida congênitas,Total,541
+. Outras malformações congênitas do sistema nervos,1 Região Norte,428
+. Outras malformações congênitas do sistema nervos,2 Região Nordeste,1130
+. Outras malformações congênitas do sistema nervos,3 Região Sudeste,1269
+. Outras malformações congênitas do sistema nervos,4 Região Sul,349
+. Outras malformações congênitas do sistema nervos,5 Região Centro-Oeste,283
+. Outras malformações congênitas do sistema nervos,Total,3459
+. Malformações congênitas do coração,1 Região Norte,147
+. Malformações congênitas do coração,2 Região Nordeste,539
+. Malformações congênitas do coração,3 Região Sudeste,797
+. Malformações congênitas do coração,4 Região Sul,338
+. Malformações congênitas do coração,5 Região Centro-Oeste,250
+. Malformações congênitas do coração,Total,2071
+. Outras malformações congênitas do aparelho circu,1 Região Norte,15
+. Outras malformações congênitas do aparelho circu,2 Região Nordeste,42
+. Outras malformações congênitas do aparelho circu,3 Região Sudeste,78
+. Outras malformações congênitas do aparelho circu,4 Região Sul,63
+. Outras malformações congênitas do aparelho circu,5 Região Centro-Oeste,23
+. Outras malformações congênitas do aparelho circu,Total,221
+. Síndrome de Down e outras anomalias cromossômica,1 Região Norte,68
+. Síndrome de Down e outras anomalias cromossômica,2 Região Nordeste,367
+. Síndrome de Down e outras anomalias cromossômica,3 Região Sudeste,1134
+. Síndrome de Down e outras anomalias cromossômica,4 Região Sul,508
+. Síndrome de Down e outras anomalias cromossômica,5 Região Centro-Oeste,224
+. Síndrome de Down e outras anomalias cromossômica,Total,2301
+. Outras malformações congênitas,1 Região Norte,912
+. Outras malformações congênitas,2 Região Nordeste,2774
+. Outras malformações congênitas,3 Região Sudeste,4315
+. Outras malformações congênitas,4 Região Sul,1329
+. Outras malformações congênitas,5 Região Centro-Oeste,924
+. Outras malformações congênitas,Total,10254
+Total,1 Região Norte,34626
+Total,2 Região Nordeste,95300
+Total,3 Região Sudeste,106774
+Total,4 Região Sul,30278
+Total,5 Região Centro-Oeste,23262
+Total,Total,290240

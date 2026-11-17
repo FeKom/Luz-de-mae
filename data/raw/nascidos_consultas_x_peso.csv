@@ -1,0 +1,55 @@
+linha,coluna,valor
+Nenhuma,Menos de 500g,2300
+Nenhuma,500 a 999g,9902
+Nenhuma,1000 a 1499 g,10521
+Nenhuma,1500 a 2499 g,58646
+Nenhuma,2500 a 2999 g,118356
+Nenhuma,3000 a 3999 g,254244
+Nenhuma,4000g e mais,19552
+Nenhuma,Ignorado,2217
+Nenhuma,Total,475738
+De 1 a 3 consultas,Menos de 500g,8782
+De 1 a 3 consultas,500 a 999g,35725
+De 1 a 3 consultas,1000 a 1499 g,35194
+De 1 a 3 consultas,1500 a 2499 g,180235
+De 1 a 3 consultas,2500 a 2999 g,376229
+De 1 a 3 consultas,3000 a 3999 g,805759
+De 1 a 3 consultas,4000g e mais,58728
+De 1 a 3 consultas,Ignorado,2363
+De 1 a 3 consultas,Total,1503015
+De 4 a 6 consultas,Menos de 500g,12593
+De 4 a 6 consultas,500 a 999g,63126
+De 4 a 6 consultas,1000 a 1499 g,91535
+De 4 a 6 consultas,1500 a 2499 g,584445
+De 4 a 6 consultas,2500 a 2999 g,1361907
+De 4 a 6 consultas,3000 a 3999 g,3234996
+De 4 a 6 consultas,4000g e mais,243722
+De 4 a 6 consultas,Ignorado,1609
+De 4 a 6 consultas,Total,5593933
+7 ou mais consultas,Menos de 500g,14974
+7 ou mais consultas,500 a 999g,26457
+7 ou mais consultas,1000 a 1499 g,72531
+7 ou mais consultas,1500 a 2499 g,1194073
+7 ou mais consultas,2500 a 2999 g,4424724
+7 ou mais consultas,3000 a 3999 g,13025851
+7 ou mais consultas,4000g e mais,1019956
+7 ou mais consultas,Ignorado,590
+7 ou mais consultas,Total,19779156
+Ignorado,Menos de 500g,696
+Ignorado,500 a 999g,2773
+Ignorado,1000 a 1499 g,3394
+Ignorado,1500 a 2499 g,17517
+Ignorado,2500 a 2999 g,33691
+Ignorado,3000 a 3999 g,73414
+Ignorado,4000g e mais,5632
+Ignorado,Ignorado,191
+Ignorado,Total,137308
+Total,Menos de 500g,39345
+Total,500 a 999g,137983
+Total,1000 a 1499 g,213175
+Total,1500 a 2499 g,2034916
+Total,2500 a 2999 g,6314907
+Total,3000 a 3999 g,17394264
+Total,4000g e mais,1347590
+Total,Ignorado,6970
+Total,Total,27489150
