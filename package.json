@@ -1,23 +1,28 @@
 {
-  "name": "luz-de-mae-backend",
-  "version": "0.2.0",
-  "description": "Backend do Luz de Mãe (Checkpoint 2): API Express + SQLite alimentada com dados públicos DATASUS (SIM/SINASC)",
-  "main": "src/server.js",
-  "type": "commonjs",
+  "name": "luz-de-mae",
+  "private": true,
+  "description": "Luz de Mãe: caderneta da gestante digital com alertas para a UBS",
+  "license": "MIT",
+  "workspaces": [
+    "packages/shared",
+    "apps/api",
+    "apps/web",
+    "apps/api-express"
+  ],
   "engines": {
-    "node": ">=22.13.0"
+    "node": ">=22.12"
   },
   "scripts": {
-    "setup": "npm run db:reset && npm run db:import && npm run db:seed",
-    "db:reset": "node --disable-warning=ExperimentalWarning src/db/setup.js --reset",
-    "db:setup": "node --disable-warning=ExperimentalWarning src/db/setup.js",
-    "db:import": "node --disable-warning=ExperimentalWarning src/db/importRaw.js",
-    "db:seed": "node --disable-warning=ExperimentalWarning src/db/seed.js",
-    "start": "node --disable-warning=ExperimentalWarning src/server.js",
-    "test": "node --disable-warning=ExperimentalWarning --test \"test/*.test.js\""
+    "postinstall": "npm run build -w @luz-de-mae/shared",
+    "dev": "concurrently -k -n api,web -c magenta,cyan \"npm run start:dev -w api\" \"npm run dev -w web\"",
+    "build": "npm run build -w @luz-de-mae/shared && npm run build -w api && npm run build -w web",
+    "start": "concurrently -k -n api,web -c magenta,cyan \"npm run start:prod -w api\" \"npm run start -w web\"",
+    "test": "npm test -w @luz-de-mae/shared && npm test -w api && npm run test:e2e -w api && npm test -w luz-de-mae-backend",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "lint": "npm run lint --workspaces --if-present",
+    "db:reset": "npm run db:reset -w api"
   },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.21.2"
+  "devDependencies": {
+    "concurrently": "^10.0.7"
   }
 }

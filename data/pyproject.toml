@@ -1,0 +1,16 @@
+[project]
+name = "luz-de-mae-data"
+version = "0.1.0"
+description = "DATASUS TabNet extractor for the Luz de Mãe indicators"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B", "ANN", "RUF"]
+
+[tool.mypy]
+strict = true

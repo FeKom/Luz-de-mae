@@ -33,6 +33,6 @@ if (require.main === module) {
   const db = setup();
   const vazio = db.prepare('SELECT COUNT(*) n FROM sinasc_nascidos_uf_ano').get().n === 0;
   if (vazio) console.warn('⚠ Dados do DATASUS ainda não importados. Rode: npm run db:import');
-  const port = Number(process.env.PORT) || 3000;
+  const port = Number(process.env.PORT) || 3002;
   createApp(db).listen(port, () => console.log(`Luz de Mãe API em http://localhost:${port}/api/health`));
 }

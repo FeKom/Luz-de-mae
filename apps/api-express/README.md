@@ -11,10 +11,10 @@ API **Node.js + Express** com banco **SQLite**, alimentada com os dados público
 **Pré-requisito:** Node.js **22.13 ou superior** (usa o SQLite nativo do Node, sem compilar nada).
 
 ```bash
-cd backend
+cd apps/api-express
 npm install        # instala express e cors
 npm run setup      # cria o banco, importa data/raw/*.csv e carrega os dados de demonstração
-npm start          # API em http://localhost:3000/api/health
+npm start          # API em http://localhost:3002/api/health
 npm test           # 14 testes de integração (importação, regras de negócio e API)
 ```
 
@@ -88,12 +88,12 @@ Todos os CSVs estão no formato longo `linha,coluna,valor`. O importador (`src/d
 ### Exemplo do fluxo principal
 ```bash
 # 1) gestante registra pressão alta e sintomas
-curl -X POST localhost:3000/api/sintomas -H 'Content-Type: application/json' \
+curl -X POST localhost:3002/api/sintomas -H 'Content-Type: application/json' \
   -d '{"gestante_id":1,"pa_sistolica":150,"pa_diastolica":98,"sintomas":["dor_de_cabeca_intensa","visao_turva"]}'
 # 2) a UBS vê o alerta prioritário
-curl 'localhost:3000/api/alertas?ubs_id=1&status=aberto'
+curl 'localhost:3002/api/alertas?ubs_id=1&status=aberto'
 # 3) a equipe atende e resolve
-curl -X PATCH localhost:3000/api/alertas/1 -H 'Content-Type: application/json' -d '{"status":"resolvido"}'
+curl -X PATCH localhost:3002/api/alertas/1 -H 'Content-Type: application/json' -d '{"status":"resolvido"}'
 ```
 
 ## Decisões técnicas e limitações

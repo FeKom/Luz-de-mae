@@ -5,7 +5,7 @@ const path = require('node:path');
 
 const ROOT = path.resolve(__dirname, '..', '..');
 const DEFAULT_DB_PATH = process.env.DB_PATH || path.join(ROOT, 'data', 'luzdemae.db');
-const RAW_DIR = process.env.RAW_DIR || path.join(ROOT, 'data', 'raw');
+const RAW_DIR = process.env.RAW_DIR || path.join(ROOT, '..', '..', 'data', 'raw');
 
 const REGIOES = [
   [1, 'Região Norte'], [2, 'Região Nordeste'], [3, 'Região Sudeste'], [4, 'Região Sul'], [5, 'Região Centro-Oeste'],
