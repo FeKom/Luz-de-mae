@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+/*
+ * Visual identity from the README: rosa pastel #FAD0C9, rosa bebê #F8E9E3,
+ * cinza escuro #4A4A4A. The darker rose is only for text links and focus,
+ * where the pastel tones would not reach WCAG contrast on white.
+ */
+@theme {
+  --color-rose-pastel: #fad0c9;
+  --color-rose-baby: #f8e9e3;
+  --color-rose-deep: #a8485c;
+  --color-ink: #4a4a4a;
+  --color-ink-soft: #6b6b6b;
+  --color-risk-high: #b3261e;
+  --color-risk-high-bg: #fde8e6;
+  --color-risk-moderate: #8a5300;
+  --color-risk-moderate-bg: #fff1d6;
+  --color-risk-low: #2e6b34;
+  --color-risk-low-bg: #e6f4e7;
+  --font-display: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-open-sans), ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  background: var(--color-rose-baby);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-rose-deep);
+  outline-offset: 2px;
+}

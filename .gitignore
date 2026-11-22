@@ -1,0 +1,28 @@
+node_modules/
+dist/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# SQLite local database (recreated and seeded on API start)
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+
+.env
+.env.*
+!.env.example
+
+.DS_Store
+*.log
+__pycache__/
+.ruff_cache/
+.mypy_cache/
+.venv/
+
+# Playwright artifacts used to capture docs/
+test-results/
+playwright-report/
