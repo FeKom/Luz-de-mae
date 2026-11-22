@@ -176,7 +176,7 @@ de hoje, então a demo funciona em qualquer data.
 
 | Comando | O que faz |
 | --- | --- |
-| `npm test` | testes unitários, e2e do fluxo principal e testes da API Express |
+| `npm test` | testes unitários (regras e indicadores) e e2e do fluxo principal |
 | `npm run typecheck` | checagem de tipos das três partes |
 | `npm run lint` | lint da API (oxlint) e da web (ESLint) |
 | `npm run db:reset` | apaga o banco; a API recria com os dados de demonstração |
@@ -193,19 +193,6 @@ Para baixar de novo, rode com Python 3.12 ou mais recente, sem dependências:
 ```bash
 python3 data/scripts/extract_tabnet.py --first-year 2015 --last-year 2024
 ```
-
-**API alternativa em Express (opcional):** `apps/api-express` tem uma
-segunda versão do back-end, em Express com o SQLite nativo do Node. Ela
-importa todos os 18 CSVs do DATASUS para tabelas e tem os próprios testes. O
-app web usa a API NestJS; esta roda à parte, na porta 3002:
-
-```bash
-cd apps/api-express
-npm run setup
-npm start
-```
-
-Detalhes em [`apps/api-express/README.md`](apps/api-express/README.md).
 
 ## 8. Prints do protótipo
 
@@ -248,7 +235,6 @@ resolve e consulta os indicadores.
 ```
 Luz-de-mae/
 ├── apps/
-│   ├── api-express/          API alternativa em Express (ver abaixo)
 │   ├── api/                  NestJS + Drizzle + SQLite
 │   │   ├── drizzle/          migrações SQL
 │   │   ├── src/alerts/       alertas, regras e job de busca ativa
