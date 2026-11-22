@@ -1,0 +1,23 @@
+{
+  "name": "luz-de-mae-backend",
+  "version": "0.2.0",
+  "description": "Backend do Luz de Mãe (Checkpoint 2): API Express + SQLite alimentada com dados públicos DATASUS (SIM/SINASC)",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "setup": "npm run db:reset && npm run db:import && npm run db:seed",
+    "db:reset": "node --disable-warning=ExperimentalWarning src/db/setup.js --reset",
+    "db:setup": "node --disable-warning=ExperimentalWarning src/db/setup.js",
+    "db:import": "node --disable-warning=ExperimentalWarning src/db/importRaw.js",
+    "db:seed": "node --disable-warning=ExperimentalWarning src/db/seed.js",
+    "start": "node --disable-warning=ExperimentalWarning src/server.js",
+    "test": "node --disable-warning=ExperimentalWarning --test \"test/*.test.js\""
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}

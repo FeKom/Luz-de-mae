@@ -6,7 +6,8 @@
   "workspaces": [
     "packages/shared",
     "apps/api",
-    "apps/web"
+    "apps/web",
+    "apps/api-express"
   ],
   "engines": {
     "node": ">=22.12"
@@ -16,7 +17,7 @@
     "dev": "concurrently -k -n api,web -c magenta,cyan \"npm run start:dev -w api\" \"npm run dev -w web\"",
     "build": "npm run build -w @luz-de-mae/shared && npm run build -w api && npm run build -w web",
     "start": "concurrently -k -n api,web -c magenta,cyan \"npm run start:prod -w api\" \"npm run start -w web\"",
-    "test": "npm test -w @luz-de-mae/shared && npm test -w api && npm run test:e2e -w api",
+    "test": "npm test -w @luz-de-mae/shared && npm test -w api && npm run test:e2e -w api && npm test -w luz-de-mae-backend",
     "typecheck": "npm run typecheck --workspaces --if-present",
     "lint": "npm run lint --workspaces --if-present",
     "db:reset": "npm run db:reset -w api"

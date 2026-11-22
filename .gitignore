@@ -26,3 +26,8 @@ __pycache__/
 # Playwright artifacts used to capture docs/
 test-results/
 playwright-report/
+
+# apps/api-express SQLite database
+*.db
+*.db-wal
+*.db-shm
